@@ -71,7 +71,7 @@
     "type_2": "light",
     "type_3": "none"
   },
-   "Esprit Implacable": {,
+   "Esprit Implacable": {
     "name": "Esprit Implacable",
     "description": "Un esprit mystique attaque l'ennemi en infligeant 10 / 20 / 30 / 40 / 50 dégâts.",
     "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
@@ -79,7 +79,7 @@
     "type_2": "none",
     "type_3": "none"
   },
-   "Flèche Aveuglante": {,
+   "Flèche Aveuglante": {
     "name": "Flèche Aveuglante",
     "description": "Tire une flèche rapide qui inflige 10 / 15 / 20 / 25 / 30 dégâts et aveugle l'adversaire, l'empêchant d'esquiver.",
     "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
