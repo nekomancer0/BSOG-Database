@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Régénération",
+    "description": "Votre personnage se régénère de 15 / 30 / 45 / 60 / 75 HP.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "light",
+    "type_2": "none",
+    "type_3": "none"
+  },
+  {
+    "id": 2,
+    "name": "Foudre Vibrante",
+    "description": "Votre personnage inflige 10 / 14 / 18 / 22 / 26 dégât à l'adversaire.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "thunder",
+    "type_2": "thunder",
+    "type_3": "none"
+  },
+  {
+    "id": 3,
+    "name": "Vivace",
+    "description": "Votre personnage gagne un bonus de dextérité de 1 / 2 / 3 / 4 / 5 pendant 2 tours. De plus, ses deux prochaines attaques infligent 8 / 11 / 14 / 17 / 20 dégât supplémentaire.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "thunder",
+    "type_2": "light",
+    "type_3": "none"
+  },
+  {
+    "id": 4,
+    "name": "Vol Vital",
+    "description": "Votre personnage se soigne de la moitié des dégâts infligés précédemment à l’adversaire. Défaussez Vol Vital.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "spiritual",
+    "type_2": "spiritual",
+    "type_3": "none"
+  },
+  {
+    "id": 5,
+    "name": "Laser",
+    "description": "Votre personnage inflige 5 / 7 / 9 / 11 / 13 dégât à l’adversaire.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "spiritual",
+    "type_2": "none",
+    "type_3": "none"
+  },
+  {
+    "id": 6,
+    "name": "Paralyse",
+    "description": "Utilisez cette carte sur un adversaire, ce dernier aura son esquive réduite par 2 ce tour-ci.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "spiritual",
+    "type_2": "spiritual",
+    "type_3": "spiritual"
+  },
+  {
+    "id": 7,
+    "name": "Explosion de Lumière",
+    "description": "Inflige 25 / 35 / 45 / 55 / 65 dégâts à un ennemi et aveugle les autres pendant un tour. (L'adversaire ne peut pas esquiver)",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "light",
+    "type_2": "light",
+    "type_3": "none"
+  },
+  {
+    "id": 8,
+    "name": "Frappe Fantôme",
+    "description": "Votre personnage effectue une attaque furtive qui inflige 20 / 30 / 40 / 50 / 60 dégâts.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "none",
+    "type_2": "none",
+    "type_3": "none"
+  },
+  {
+    "id": 9,
+    "name": "Souffle Éblouissant",
+    "description": "Lance une attaque lumineuse qui inflige 15 / 25 / 35 / 45 / 55 dégâts et aveugle l'adversaire, l'empêchant d'esquiver.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "light",
+    "type_2": "light",
+    "type_3": "none"
+  },
+  {
+    "id": 10,
+    "name": "Esprit Implacable",
+    "description": "Un esprit mystique attaque l'ennemi en infligeant 10 / 20 / 30 / 40 / 50 dégâts.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "none",
+    "type_2": "none",
+    "type_3": "none"
+  },
+  {
+    "id": 11,
+    "name": "Flèche Aveuglante",
+    "description": "Tire une flèche rapide qui inflige 10 / 15 / 20 / 25 / 30 dégâts et aveugle l'adversaire, l'empêchant d'esquiver.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "light",
+    "type_2": "none",
+    "type_3": "none"
+  },
+  {
+    "id": 12,
+    "name": "Vortex Sombre",
+    "description": "Crée un vortex qui aspire l'énergie de l'adversaire, infligeant 12 / 18 / 24 / 30 / 36 dégâts.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "none",
+    "type_2": "none",
+    "type_3": "none"
+  },
+  {
+    "id": 13,
+    "name": "Lame du Jugement",
+    "description": "Une lame sacrée qui inflige 35 / 45 / 55 / 65 / 75 dégâts et aveugle l'adversaire, l'empêchant d'esquiver.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "light",
+    "type_2": "spiritual",
+    "type_3": "none"
+  },
+  {
+    "id": 14,
+    "name": "Explosion Nocturne",
+    "description": "Inflige 15 / 25 / 35 / 45 / 55 dégâts à un ennemi et aveugle l'adversaire, l'empêchant d'esquiver.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "dark",
+    "type_2": "dark",
+    "type_3": "none"
+  },
+  {
+    "id": 15,
+    "name": "Frappe Ténèbreuse",
+    "description": "Une frappe des ombres qui inflige 10 / 15 / 20 / 25 / 30 dégâts.",
+    "illustration": "https://i.imgur.com/GqSjvp1.jpeg",
+    "type_1": "none",
+    "type_2": "none",
+    "type_3": "none"
+  }
+]
