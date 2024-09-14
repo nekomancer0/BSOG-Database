@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Ryuu, Draconic Prayer",
+    "species": "Animus",
+    "stars": 5,
+    "type_1": "scarlet-thunder",
+    "type_2": "light",
+    "special": {
+      "name": "(S) Draconic Tempest",
+      "description": "Ryuu summons a storm of Scarlet Thunder, dealing 50 / 75 / 100 / 125 / 150 damage to all enemies and causing them to roll 1 fewer die for dodging for 2 turns.",
+      "cooldown": "3"
+    },
+    "passive": {
+      "name": "(P) Evasive Bolt",
+      "description": "Whenever Ryuu dodges, she creates energy that deals 3 / 6 / 9 / 12 / 15 damage to the target enemy."
+    },
+    "stats": {
+      "health": "210",
+      "healthScale": "/ 240 / 270 / 300 / 350",
+      "speed": "7",
+      "speedScale": "/ 8 / 9 / 10 / 11",
+      "dodge": "5",
+      "dodgeScale": "/ 6 / 7 / 8 / 9",
+      "dext": "5",
+      "dextScale": "/ 6 / 7 / 8 / 9"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Naira, Thunderborn Prophet",
+    "species": "Animus",
+    "stars": 4,
+    "type_1": "thunder",
+    "type_2": "light",
+    "special": {
+      "name": "(S) Storm Surge",
+      "description": "Naira conjures a surge of lightning, dealing 40 / 60 / 80 / 100 / 120 damage to all enemies and paralyzing them, reducing their dodge by 2 for 1 turn.",
+      "cooldown": "2"
+    },
+    "passive": {
+      "name": "(P) Lightning Shield",
+      "description": "Each time Naira takes damage, she reflects 5 / 10 / 15 / 20 / 25 damage back to the attacker."
+    },
+    "stats": {
+      "health": "200",
+      "healthScale": "/ 230 / 260 / 290 / 320",
+      "speed": "6",
+      "speedScale": "/ 7 / 8 / 9 / 10",
+      "dodge": "6",
+      "dodgeScale": "/ 7 / 8 / 9 / 10",
+      "dext": "4",
+      "dextScale": "/ 5 / 6 / 7 / 8"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nicolas",
+    "species": "Humain",
+    "stars": 5,
+    "type_1": "fire",
+    "special": {
+      "name": "(S) Arc Boost",
+      "description": "Choisis un :\n- Nicolas gagne un bonus de dextérité de 3.\n- Nicolas gagne un bonus d'esquive de 5.",
+      "cooldown": "4"
+    },
+    "passive": {
+      "name": "(P) Flèche Furtive",
+      "description": "À chaque fois que vous utilisez une carte compétence à dégât, vous infligez 5 / 10 / 15 / 20 / 25 dégât supplémentaires."
+    },
+    "stats": {
+      "health": "200",
+      "healthScale": "/ 215 / 230 / 245 / 260",
+      "speed": "5",
+      "speedScale": "/ 7 / 9 / 11 / 13",
+      "dodge": "4",
+      "dodgeScale": "/ 5 / 6 / 7 / 8",
+      "dext": "4",
+      "dextScale": "/ 5 / 6 / 7 / 8"
+    }
+  }
+]
